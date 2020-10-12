@@ -1,8 +1,8 @@
-# ARS (Aptitude Retrospective System)
+# ARS (Aptitude Retrocompatibility System)
 
 ### What is ARS?
 
-Aptitude Retrospective System is an open-source project under the MPL 2.0 license that aims to solve the problem faced by many GNU / Linux system users who have great difficulty downloading, installing and running old software. ARS aims to fix this by creating a CLI (command line interface) application that downloads and installs a program with one command and runs that old program with another command. 
+Aptitude Retrocompatibility System is an open-source project under the MPL 2.0 license that aims to solve the problem faced by many GNU / Linux system users who have great difficulty downloading, installing and running old software. ARS aims to fix this by creating a CLI (command line interface) application that downloads and installs a program with one command and runs that old program with another command. This program will bring back the retrocompatibility to GNU/Linux.
 
 ### The 3 main parts of ARS project
 
